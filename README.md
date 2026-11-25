@@ -29,7 +29,7 @@
 - 🤖 "치지직으로 로그인" 버튼 하나로 봇이 채팅방에 답장
 - 📺 OBS 오버레이 (현재 곡 · 룰렛 · 후원 알림)
 
-**[⬇ 다운로드 (Windows)](https://github.com/GGOSUNI/localbot/raw/download/LocalBot-v0.7.0-win-x64.zip)** · **[소개·사용법](https://github.com/GGOSUNI/localbot)** · 무료 · 오픈소스
+**[⬇ 다운로드 (Windows)](https://github.com/GGOSUNI/localbot/raw/download/LocalBot-v0.7.1-win-x64.zip)** · **[소개·사용법](https://github.com/GGOSUNI/localbot)** · 무료 · 오픈소스
 
 ---
 
