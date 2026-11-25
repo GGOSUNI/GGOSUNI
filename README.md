@@ -22,13 +22,14 @@
 
 `LocalBot.exe` 하나, 채널 주소 붙여넣기 하나로 끝. 서버 · 회원가입 · API 키 없음.
 
-- 🎵 **절대 끊기지 않는 신청곡 스테이션** — 멈추면 자동 복구, YouTube가 막혀도 내 음악 폴더로 계속 재생
+- 🎵 **절대 끊기지 않는 신청곡 스테이션** — 곡 이름으로 신청, 멈추면 자동 복구, 재생 막힌 영상(오류 150)도 재생
 - 🎰 **30초 만에 만드는 룰렛** — 후원 금액별 자동 회전, 벌칙 체크리스트, 공유 코드
 - 🎧 신청곡이 없으면 유튜브 알고리즘으로 비슷한 곡을 자동 재생
+- 🔊 **후원 TTS** — 윈도우 한국어 목소리로 읽어 주고, 읽는 동안 노래 소리 자동으로 줄임
 - 🤖 "치지직으로 로그인" 버튼 하나로 봇이 채팅방에 답장
-- 📺 OBS 오버레이 (플레이어 · 현재 곡 · 룰렛)
+- 📺 OBS 오버레이 (현재 곡 · 룰렛 · 후원 알림)
 
-**[⬇ 다운로드 (Windows)](https://github.com/GGOSUNI/localbot/raw/download/LocalBot-v0.6.0-win-x64.zip)** · **[소개·사용법](https://github.com/GGOSUNI/localbot)** · 무료 · 오픈소스
+**[⬇ 다운로드 (Windows)](https://github.com/GGOSUNI/localbot/raw/download/LocalBot-v0.7.0-win-x64.zip)** · **[소개·사용법](https://github.com/GGOSUNI/localbot)** · 무료 · 오픈소스
 
 ---
 
